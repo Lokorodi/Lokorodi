@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lokorodi
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: email at wmmichael603@gmail.com
 
 <!---
